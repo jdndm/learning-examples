@@ -4,10 +4,11 @@ class Order:
         self.add = False
         self.delete = False
         self.quit = False
+        self.status = False
         self.item = None
 
     def get_input(self):
-        print ("[command] [item] (command a -add d -delete q - quit)")
+        print ("[command] [item] (command [a]dd [d]elete [s]tatus [q]uit)")
         line = input()
 
         command = line[:1]
@@ -17,5 +18,7 @@ class Order:
             self.add = True
         elif command == "d":
             self.delete = True
+        elif command == "s":
+            self.status = True
         elif command == "q":
             self.quit = True

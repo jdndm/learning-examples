@@ -17,6 +17,8 @@ class Cart:
                 self._contents[order.item] -= 1
                 if self._contents[order.item] <= 0:
                     del   self._contents[order.item]
+        elif order.status:
+            self.list_content()
 
     def list_content(self):
         for key, val in self._contents.items():
