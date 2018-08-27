@@ -1,0 +1,7 @@
+F:\Projects\learning-examples\Hello\Hello\bin\Debug\Hello.exe.config
+F:\Projects\learning-examples\Hello\Hello\bin\Debug\Hello.exe
+F:\Projects\learning-examples\Hello\Hello\bin\Debug\Hello.pdb
+F:\Projects\learning-examples\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+F:\Projects\learning-examples\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+F:\Projects\learning-examples\Hello\Hello\obj\Debug\Hello.exe
+F:\Projects\learning-examples\Hello\Hello\obj\Debug\Hello.pdb
